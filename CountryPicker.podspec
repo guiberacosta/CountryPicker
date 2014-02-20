@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'CountryPicker'
-  s.version      =  '1.2'
+  s.version      =  '1.3'
   s.license      =  'zlib'
   s.summary      =  'CountryPicker is a custom UIPickerView subclass that provides an iOS control allowing a user to select a country from a list.'
   s.homepage     =  'http://github.com/nicklockwood/CountryPicker'
