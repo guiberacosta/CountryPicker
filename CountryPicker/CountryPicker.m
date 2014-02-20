@@ -238,7 +238,7 @@
       didSelectRow:(__unused NSInteger)row
        inComponent:(__unused NSInteger)component
 {
-    [delegate countryPicker:self didSelectCountryWithName:self.selectedCountryName code:self.selectedCountryCode];
+    [delegate countryPicker:self didSelectCountryWithName:self.selectedCountryName code:self.selectedCountryCode row:row];
 }
 
 @end
